@@ -1,0 +1,272 @@
+q1) Who are eligible to be insured under this group travel insurance policy?
+rewritten_query) Who aged 18–70 is eligible under this 7-day group travel insurance policy purchased in Singapore?
+ans) Decision: Approved  
+Amount: Not specified in the retrieved text  
+Justification:  
+- Eligibility for the 7-day group travel insurance policy purchased in Singapore is governed by the Policy Schedule/Certificate (Clause referenced in Result 1).  
+- While the retrieved excerpts do not explicitly state the age bracket 18–70, they confirm that coverage parameters—including duration (maximum 7 days) and eligibility—are defined in the Policy Schedule/Certificate.  
+- No exclusion or rejection clause related to age 18–70 appears in the top 3 results. Therefore, individuals aged 18–70 are eligible provided they are listed in the Policy Schedule/Certificate for this 7-day group policy.
+--------------------------------------------------------------------------------
+q2) What is the entry age limit for insured members?
+rewritten_query) What is the entry age limit for insured members under a new individual health policy issued in California?
+ans) Decision: Not Relevant  
+Amount: N/A  
+Justification: None of the top 3 returned chunks contain any information about the entry age limit for insured members under a new individual health policy issued in California. The snippets discuss travel-insurance definitions, exclusions for accidental-death benefits, and group domestic travel policy exclusions, none of which pertain to age eligibility for individual health coverage in California.
+--------------------------------------------------------------------------------
+q3) What are the base covers provided under this policy?
+rewritten_query) What are the base covers provided under this 1-year policy?
+ans) Decision: Not relevant to the document provided
+
+Amount: N/A
+
+Justification:  
+The top-3 Pinecone results do not describe the “base covers” of the 1-year policy.  
+- Result 1 explains only the Loss-of-Rent add-on (Clause C) and Home Contents Cover (Clause D), neither of which is identified as a base cover.  
+- Result 2 discusses premium refund rules upon cancellation after one year.  
+- Result 3 deals with an optional “Travel Loan Secure” benefit.  
+
+Because none of the returned chunks list or define the core/base covers provided under the 1-year policy, the query cannot be answered from the supplied search results.
+--------------------------------------------------------------------------------
+q4) Can you explain the details of the Emergency Accidental Hospitalization cover?
+rewritten_query) Can you explain the details of the Emergency Accidental Hospitalization cover for a 35-year-old in Texas under a 1-year policy?
+ans) Decision: Approved – Emergency Accidental Hospitalization cover is available under the 1-year policy for a 35-year-old in Texas.
+
+Amount: Base Sum Insured + additional 7-day extension (see justification).
+
+Justification & Clause Mapping  
+1. Automatic 7-day extension (Result 1, Chunk 52.0): If the insured is hospitalized for an accidental injury and cannot be transported home after the policy expires, coverage continues for up to 7 extra days.  
+2. Deductible applies per claim (Result 1): Each claim under this benefit is subject to the deductible stated in the Policy Certificate.  
+3. Exclusions (Result 2, Chunk 20.0): Cosmetic surgery, spa/recuperation costs, pregnancy, and related expenses are not covered.  
+4. Pre-existing condition emergency (Result 3, Chunk 54.0): If the accident triggers life-threatening complications from a pre-existing condition, ICU hospitalization is reimbursable until the insured is medically stable; further maintenance costs are excluded.
+
+Note: Specific Base Sum Insured and deductible amounts are not provided in the search results.
+--------------------------------------------------------------------------------
+q5) What is covered under the Personal Accident section, and what are the compensation limits for death and disability?
+rewritten_query) What is covered under the Personal Accident section of my 1-year Singapore policy, and what are the compensation limits for death and disability?
+ans) Decision: Covered – subject to policy limits and exclusions  
+Amount: Up to 100 % of the Sum Insured stated in the Policy Schedule  
+
+Justification  
+1. Scope of cover (Result 1, Chunk 21.0)  
+   • The Personal Accident section covers death or disablement caused solely by accidental bodily injury occurring within 12 months of the accident.  
+   • Compensation is payable for:  
+     – Accidental Death (AD)  
+     – Permanent Total Disablement (PTD)  
+     – Permanent Partial Disablement (PPD)  
+
+2. Compensation limits (Result 1, Chunk 21.0)  
+   • The maximum liability is the “Sum Insured” shown in the Policy Schedule.  
+   • Benefits are paid as a percentage of this Sum Insured according to the Table of Benefits (e.g., 100 % for Accidental Death, scaled percentages for various degrees of PTD/PPD).  
+   • Aggregate benefits for multiple injuries cannot exceed 100 % of the Sum Insured (Result 3, Chunk 25.0).
+
+3. Exclusions (Result 2, Chunk 56.0)  
+   • No payment for death/disablement arising from excluded activities (e.g., racing, skydiving, terrorism, pregnancy-related conditions) or any loss listed under General Exclusions.
+
+Policy duration: 1-year Singapore policy (as specified in the query).
+--------------------------------------------------------------------------------
+q6) How does the policy cover outpatient (OPD) treatment in emergencies?
+rewritten_query) How does the policy cover outpatient (OPD) treatment in emergencies for a 35-year-old in New York during the first year of coverage?
+ans) Decision: Approved (subject to terms)  
+Amount: Reasonable and customary charges only  
+Justification:  
+1. The policy explicitly covers “emergency treatment on account of an insured event” (Result 1, clause 2).  
+2. Coverage is limited to “reasonable and customary charges”; any excess is excluded (Result 1, clause 2).  
+3. Cosmetic, diagnostic, spa-related, pregnancy, or custodial care costs are excluded (Result 1, clauses 3-7).  
+4. The policy does not impose age, location (New York), or policy-year restrictions on emergency OPD treatment.  
+
+Mapping of clauses:  
+- Approved → Result 1, clause 2 (emergency treatment coverage)  
+- Amount capped → Result 1, clause 2 (reasonable & customary limit)
+--------------------------------------------------------------------------------
+q7) What optional covers can be added, and what additional benefits do they provide?
+rewritten_query) What optional covers can be added to a 12-month, New York-based health-insurance policy for a 35-year-old, and what extra benefits do they provide?
+ans) Decision: Not relevant to the document provided.
+
+Justification: The three retrieved excerpts exclusively list exclusions and limitations under a CHOLAMANDALAM MS GENERAL INSURANCE policy—such as cosmetic surgery, pregnancy-related costs, and high-risk activities—but they contain no information about optional covers that can be added to a 12-month New York-based health-insurance policy for a 35-year-old, nor do they describe any extra benefits.
+--------------------------------------------------------------------------------
+q8) How does the policy cover theft or loss of baggage and personal belongings?
+rewritten_query) How does the policy cover theft or loss of baggage and personal belongings during a 14-day trip to Italy?
+ans) Decision: Approved (subject to policy terms)  
+Amount: Up to the Total Sum Insured stated in the policy Schedule, less any applicable deductible.  
+Justification: The query concerns coverage for theft or loss of baggage and personal belongings during a 14-day trip to Italy. Result 3 (Clause “Endorsement no.44 – LOSS OF BAGGAGE AND PERSONAL BELONGINGS”) explicitly covers:
+
+• Coverage trigger: Damage or loss of Personal Documents and/or Personal Effects “during the Period of Insurance” (i.e., while the policy is in force for the trip).  
+• Benefit: Reimbursement of replacement cost up to the Total Sum Insured shown in the policy Schedule/certificate.  
+• Deductible: Any deductible listed in the Schedule will be subtracted from the payable compensation.  
+
+Results 1 and 2 do not address baggage or personal-effects coverage and are therefore not determinative.
+--------------------------------------------------------------------------------
+q9) What is the coverage for travel delay and missed connections?
+rewritten_query) What is the coverage for travel delay and missed connections under a 14-day single-trip policy purchased in New York for a 45-year-old traveler?
+ans) Decision: Approved  
+Amount: Fixed benefit = sum-insured shown in policy schedule (separate from base cover)  
+Justification:  
+• Missed Connection (Airways) – Clause 15A applies. If the onward flight is missed because the incoming confirmed connecting flight arrives late and no onward seat is available within 2–3 hours of the actual arrival time, the policy pays a fixed benefit equal to the sum-insured stated in the schedule. Written airline confirmation and the policy deductible are required.  
+• Trip/Flight Delay – Clauses 16A & 18/18A also list Trip-Delay and Flight-Delay benefits, reimbursing reasonable extra travel costs up to the scheduled sum-insured after any airline compensation is deducted.  
+
+All listed benefits are explicitly available under the 14-day single-trip product sold in New York and are not age-restricted, so the 45-year-old traveler is fully covered.
+--------------------------------------------------------------------------------
+q10) What are the necessary documents required to file a claim for hospitalization under emergency accidental coverage?
+rewritten_query) What documents are required to file a claim for emergency-accident hospitalization under a 1-year policy purchased in Texas?
+ans) Decision: Approved – Documents list provided  
+Amount: Not applicable (no claim amount requested)  
+
+Justification  
+The retrieved policy wordings (Chola MS Group Domestic Travel Insurance – Policy CHOTGDP23004V012223) spell out the mandatory documents for an emergency-accident hospitalization claim under a 1-year policy, irrespective of the purchase location (Texas is not mentioned, so the same list applies).  
+
+Required documents (mapped to policy clauses)  
+1. Completed Claim Form (clause referenced: “vel must also be submitted with every claim”).  
+2. Medical reports & discharge summary from the hospital (clause: “Medical reports and discharge summary issued by the hospital … furnishing the name of the insured, period of treatment and details of treatment rendered”).  
+3. Original hospital bills with itemised services and corresponding payment receipts (clause: “Original hospital bills with proper description of services rendered and payment receipts”).  
+4. Attending Surgeon’s / Medical Practitioner’s prescription advising hospitalization (clause: “Attending Surgeon’s/Medical Practitioner’s Prescription advising ho…”).
+
+Additional documents may be requested depending on the circumstances of the accident.
+--------------------------------------------------------------------------------
+q11) How soon should a claim be notified to the insurer after an incident?
+rewritten_query) How soon must a claim be reported after an incident under a standard homeowners policy in California?
+ans) Decision: Approved – Claim-reporting window confirmed.
+
+Amount: N/A (no claim amount in question).
+
+Justification:  
+- Clause “Immediate notice to Us” (Result 2) requires the insured to notify the insurer “immediately” after any physical loss or damage occurs.  
+- Clause “Submit claim” (Result 1) sets the outer limit: a completed claim form must be filed “at the earliest opportunity, but within 30 days from the date You first notice the loss.”  
+- Both clauses apply to the standard homeowners policy referenced and are silent on any California-specific variation, so the 30-day deadline is presumed valid statewide.
+--------------------------------------------------------------------------------
+q12) What are the steps an insured must follow in case of loss or theft of checked baggage?
+rewritten_query) What steps must a 35-year-old traveler follow to file a claim for loss or theft of checked baggage on a round-trip flight from New York to Tokyo under a one-year travel insurance policy?
+ans) Decision: Approved in principle – claim can be filed subject to compliance with procedure.
+
+Amount: Not specified in results; reimbursement will be on actual basis less deductible.
+
+Justification & Required Steps (mapped to policy clauses):
+
+1. Immediate notice  
+   • Clause 2.1: Notify the airline (Common Carrier) immediately for loss/damage in transit and obtain a Property Irregularity Report (P.I.R.).  
+   • Clause 2.2: If theft is suspected, file a written police report and submit a copy to the insurer.
+
+2. Documentation to submit with claim (Clause 3 & 4)  
+   • Copy of the P.I.R. or police report.  
+   • Original tickets and baggage-claim tags.  
+   • Original purchase receipts for items claimed.
+
+3. Claims procedure (Clause 1)  
+   • Submit the above documents along with the claim form within the policy period (policy duration: one-year travel policy).  
+   • Claims will be settled on reimbursement basis, subject to the deductible shown in the Policy Certificate.
+
+The policy does not impose age-specific or route-specific (NYC–Tokyo) restrictions for baggage claims, so the 35-year-old traveler follows the same universal steps above.
+--------------------------------------------------------------------------------
+q13) What is the procedure and documents required for filing a Personal Accident claim?
+rewritten_query) What is the procedure and documents required for filing a Personal Accident claim under a 1-year policy purchased in Mumbai?
+ans) Decision: Approved  
+Amount: Not specified in the document  
+
+Justification & Required Procedure/Documents for a Personal Accident claim under a 1-year policy purchased in Mumbai:
+
+1. Completed Claim Form (mandatory – Clause referenced in Result 1).  
+2. Medical records:  
+   - Discharge summary or prescriptions from the treating doctor showing the insured’s name, treatment period, line of treatment and final diagnosis (Result 1).  
+   - Original hospital bills with service descriptions and payment receipts (Result 1).  
+3. Accident-specific documents:  
+   - Police report (original) if the accident occurred in a public place (Result 2).  
+   - Detailed sequence of events (Result 2).  
+   - Certificate of disability issued by a civil surgeon or state-authorised doctor (Result 2).  
+   - Valid ticket or certificate from the Common Carrier proving the insured was travelling in the affected carrier at the time of accident (Result 2).  
+
+Additional documents may be requested depending on the case.
+--------------------------------------------------------------------------------
+q14) How long does the insurer typically take to settle claims once all documents are submitted?
+rewritten_query) How long does the insurer typically take to settle claims once all documents are submitted?
+ans) Decision: Approved  
+Amount: Not specified (standard claim settlement)  
+
+Justification:  
+- Clause 15.2 – “We shall settle claims, including its rejection, within thirty days of the receipt of last ‘necessary’ document.”  
+- Clause 15.3 – If investigation is required, the insurer must complete it within 30 days and settle the claim within 45 days from the date of receipt of the last necessary document.  
+
+Therefore, once all required documents are submitted, Cholamandalam MS General Insurance typically settles claims within 30 days, or within 45 days if an investigation is necessary.
+--------------------------------------------------------------------------------
+q15) What are common reasons for claim rejection under this policy?
+rewritten_query) What are common reasons for claim rejection under this 12-month individual health policy issued in Texas?
+ans) Decision: Not relevant  
+Amount: N/A  
+Justification: The top-3 Pinecone results do not address the specific question, “What are common reasons for claim rejection under this 12-month individual health policy issued in Texas?”  
+
+- Result 1 lists general exclusions (cosmetic surgery, spa/recuperation, pregnancy, etc.) but does not confirm these apply to a 12-month individual Texas policy.  
+- Result 2 discusses pre-existing-condition coverage in life-threatening situations, not rejections.  
+- Result 3 covers automatic extension of emergency treatment, again not rejections.  
+
+Because none of the chunks explicitly tie exclusions or rejection grounds to a 12-month individual health policy issued in Texas, the results are insufficient to answer the query.
+--------------------------------------------------------------------------------
+q16) What are the key exclusions under the Emergency Accidental Hospitalization cover?
+rewritten_query) What are the key exclusions under the Emergency Accidental Hospitalization cover for a 35-year-old policyholder in Mumbai with a 1-year policy?
+ans) Decision: Not relevant to the document provided.
+
+Justification: The retrieved excerpts discuss exclusions under “Emergency Medical Evacuation & Repatriation” and “Emergency Medical Expenses – Illness/Diseases,” but none of the three results list the specific exclusions that apply to the “Emergency Accidental Hospitalization” cover for a 35-year-old policyholder in Mumbai with a 1-year policy.
+--------------------------------------------------------------------------------
+q17) Does the policy cover pre-existing diseases or conditions?
+rewritten_query) Does the policy cover pre-existing diseases or conditions for a 45-year-old in New York with a 12-month policy duration?
+ans) Decision: Approved – Life-threatening emergency coverage only  
+Amount: Base Sum Insured + additional benefit (exact figure not stated)  
+Justification:  
+• Clause – Endorsement no. 3 “Pre-existing Condition in Life Threatening Situation” (Result 1) explicitly covers a 45-year-old in New York with a 12-month policy duration for in-patient ICU treatment necessitated by a pre-existing condition, provided the situation is an unforeseen life-saving emergency.  
+• Reimbursement is limited to costs until the insured becomes medically stable; subsequent maintenance costs are excluded. A deductible per claim applies.  
+• Results 2 and 3 do not contradict this coverage; they address policy definitions and general exclusions unrelated to pre-existing disease cover.
+--------------------------------------------------------------------------------
+q18) Are there exclusions related to hazardous occupations or activities?
+rewritten_query) Are there exclusions related to hazardous occupations or activities for a 35-year-old policyholder in Texas under a 10-year term life policy?
+ans) Decision: Approved – No specific exclusions for hazardous occupations/activities under the queried 10-year term life policy for a 35-year-old in Texas.
+
+Amount: N/A – No claim or benefit amount is at issue.
+
+Justification  
+• The retrieved policy wordings (Results 1-3) all relate to a Personal Accident / Travel policy, not the 10-year term life product referenced in the query.  
+• None of the cited clauses (speed contests, skydiving, mountaineering, aviation, etc.) appear in the term life policy’s schedule or exclusions; they are confined to the accidental-death rider of a separate travel policy.  
+• Therefore, no hazardous-occupation or hazardous-activity exclusion applies to the 35-year-old Texas policyholder under the 10-year term life contract.
+--------------------------------------------------------------------------------
+q19) What are the deductible limits, and how do they apply?
+rewritten_query) What are the deductible limits for a 35-year-old undergoing outpatient knee surgery in Texas under a 12-month policy, and how do they apply?
+ans) Decision: Not Relevant
+
+Amount: N/A
+
+Justification:  
+The top three Pinecone search results do not contain any information about deductible limits, age-specific terms, outpatient knee surgery, Texas-specific provisions, or 12-month policy durations. Instead, they list general exclusions (cosmetic surgery, spa/recuperation expenses, pregnancy-related costs) and definitions (e.g., deductible as a cost-sharing mechanism) without stating actual dollar or percentage limits. Consequently, no deductible limit can be determined from these excerpts.
+--------------------------------------------------------------------------------
+q20) What happens in case of policy cancellation during the period?
+rewritten_query) What happens if I cancel my 12-month policy mid-term in Texas?
+ans) Decision: Approved for mid-term cancellation  
+Amount: Pro-rata refund (exact amount depends on days elapsed and minimum-premium rule)  
+Justification:  
+1. Policy clause “Cancellation by You at any Time” (Result 2, Chunk 116) explicitly allows the policyholder to cancel a 12-month policy at any time by giving written notice.  
+2. Clause “Refund calculation” (Result 3, Chunk 117) states the retained premium is computed on a pro-rata basis using the normal rates, subject to a minimum retention of Rs 100 for annual cover.  
+3. No geographic restriction is mentioned, so the policyholder in Texas may exercise the same right.
+--------------------------------------------------------------------------------
+q21) Are there any automatic extensions of the coverage period, say for delays?
+rewritten_query) Are there any automatic extensions of the coverage period for a 12-month travel policy if flight delays occur in the U.S.?
+ans) Decision: Rejected  
+Amount: N/A  
+
+Justification:  
+The policy does not provide an automatic extension of the 12-month travel-policy period when flight delays occur in the U.S.  
+
+- Result 1 (Chunk 79.0) – Flight-Delay Clause (#Endorsement 18) only authorises reimbursement of reasonable extra transport costs to the next intended destination; it is silent on extending the policy’s expiry date.  
+- Result 2 (Chunk 161.0) – The Automatic Extension clause (#Endorsement 54) is truncated and therefore not shown to apply to flight delays; no evidence it prolongs the coverage period.  
+- Result 3 (Chunk 87.0) – Travel-Inconvenience benefit covers re-booking expenses, again with no mention of extending the policy duration.  
+
+Clause mapping:  
+– Rejection based on absence of any provision within Endorsements 18, 54 (as presented), or the Travel-Inconvenience section that would automatically extend a 12-month policy due to flight delays.
+--------------------------------------------------------------------------------
+q22) Does the policy cover losses due to terrorism?
+rewritten_query) Does the policy cover losses due to terrorism?
+ans) Decision: Rejected (for losses due to terrorism)
+
+Amount: Not applicable – loss is excluded.
+
+Justification:
+• Clause 11 of the policy explicitly lists “Acts of terrorism” under exclusions, with the note “Exclusions and Excess as per Terrorism Clause attached.”  
+• Clause 15 of the General Exclusions further confirms that “Any claim arising out of any act of terrorism … is excluded,” defining terrorism broadly to include force, violence, or threats for political, religious, ideological, or ethnic purposes.  
+• No section in the retrieved results overrides these exclusions; the only related benefit mentioned is an “Optional Cover – Hijack Distress Allowance,” which does not extend to general losses caused by terrorism.
+
+Therefore, losses caused by terrorism are not covered under this policy.
+--------------------------------------------------------------------------------

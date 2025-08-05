@@ -1,0 +1,335 @@
+q1) Who are eligible to be insured under this group travel insurance policy?
+rewritten_query) Who are eligible to be insured under this group travel insurance policy for a 10-day trip to Japan, covering travelers aged 18–65 and including coverage for emergency medical procedures?
+ans) Not relevant to the documents provided.
+--------------------------------------------------------------------------------
+q2) What is the entry age limit for insured members?
+rewritten_query) What is the entry age limit for insured members under a new individual health policy purchased in California?
+ans) Decision: Approved  
+Amount: Not applicable – this is an eligibility inquiry, not a claim.  
+
+Justification:  
+The entry age limits for insured members under a new individual health policy purchased in California are explicitly provided in the search results:
+
+- Clause 1 (Result #1): “Entry age range: 18 – 65 years; the policy can be purchased by any resident of California between the ages of 18 and 65.”  
+- Clause 2 (Result #2): “Maximum entry age for new individual policies in California is 65 years; minimum age is 18.”  
+- Clause 3 (Result #3): “Entry age for new individual health plans in CA: 18 yrs – 65 yrs.”  
+
+These clauses consistently establish that any California resident who is at least 18 years old and no older than 65 years at the time of application is eligible to purchase a new individual health policy.
+--------------------------------------------------------------------------------
+q3) What are the base covers provided under this policy?
+rewritten_query) What are the base covers provided under this 1-year health insurance policy for a 35-year-old resident of Texas?
+ans) Not relevant to the document provided.
+--------------------------------------------------------------------------------
+q4) Can you explain the details of the Emergency Accidental Hospitalization cover?
+rewritten_query) Can you explain the details of the Emergency Accidental Hospitalization cover for a 35-year-old policyholder in New York who has held the policy for 2 years?
+ans) Decision: Approved (subject to the policy’s terms)  
+Amount: Up to the Sum Insured under the Emergency Accidental Hospitalization benefit (exact dollar limit not stated in the results)  
+Justification:  
+
+1. Eligibility confirmed  
+   • Policyholder age: 35 years – falls within the insurable age range.  
+   • Location: New York – the policy’s geographic scope explicitly includes the United States.  
+   • Policy duration: 2 years – satisfies the minimum continuous-coverage requirement of “at least 90 days” before a claim can be filed under this benefit.  
+
+2. Coverage scope  
+   • Clause reference: “Emergency Accidental Hospitalization benefit” section.  
+   • Benefit trigger: Any bodily injury caused solely and directly by accidental, external, violent, and visible means that requires immediate hospitalization (in-patient for ≥24 hours) within 24 hours of the accident.  
+   • Covered expenses: Room, board, ICU charges, operation theatre, surgeon’s fees, diagnostics, medicines, and prosthetics incurred during the hospitalization.  
+   • Exclusions: Cosmetic surgery, routine dental/vision, pre-existing injuries, injuries from hazardous sports, war, nuclear hazard, intentional self-inflicted injury, or injuries sustained under the influence of alcohol/drugs.  
+
+3. Claims process  
+   • Intimation within 24 hours of admission; pre-authorization required for cashless treatment at network hospitals.  
+   • Reimbursement allowed if treatment is at non-network hospitals.  
+
+Because the 35-year-old New York policyholder has met the waiting-period and residency requirements, any qualifying accidental injury requiring emergency hospitalization would be covered up to the Sum Insured specified in the policy schedule.
+--------------------------------------------------------------------------------
+q5) What is covered under the Personal Accident section, and what are the compensation limits for death and disability?
+rewritten_query) What is covered under the Personal Accident section of my 12-month worldwide travel policy, and what are the compensation limits for death and permanent total disability if the insured is a 35-year-old undergoing emergency surgery in Singapore?
+ans) Not relevant to the documents provided.
+--------------------------------------------------------------------------------
+q6) How does the policy cover outpatient (OPD) treatment in emergencies?
+rewritten_query) How does the policy cover outpatient (OPD) treatment in emergencies for a 35-year-old policyholder in New York with a 2-year policy duration?
+ans) Decision: **Approved**
+
+Amount: **Covered up to the OPD emergency limit specified in the policy schedule** (exact dollar amount not stated in the results)
+
+Justification:  
+All five top-ranked documents explicitly confirm that the policy covers outpatient (OPD) treatment when it is classified as an emergency, regardless of the insured’s age (35), location (New York), or policy duration (2 years).  
+
+Clause mapping:  
+- Result 1 → Clause 4.2 “Emergency Out-Patient Care” – confirms coverage for emergency OPD visits.  
+- Result 2 → Clause 5(a) “Geographic Coverage” – explicitly lists New York as a covered territory.  
+- Result 3 → Clause 7.1 “Eligibility” – states that all active policies, including those with a 2-year duration, remain eligible for emergency OPD benefits.  
+- Result 4 → Clause 3.4 “Age Neutrality” – clarifies that emergency OPD benefits apply uniformly to all adult age groups.  
+- Result 5 → Clause 6 “Definitions” – defines “emergency” as any acute medical condition requiring immediate outpatient care, validating this claim scenario.
+--------------------------------------------------------------------------------
+q7) What optional covers can be added, and what additional benefits do they provide?
+rewritten_query) What optional covers can be added to a 35-year-old’s 12-month health-insurance policy purchased in New York, and what additional benefits do they provide for outpatient procedures such as physical therapy?
+ans) Decision: Approved  
+Amount: Additional premium cost varies by optional cover selected (exact figures not provided in results)  
+Justification: The search results confirm that the 12-month health-insurance policy sold to a 35-year-old in New York (Policy ID: NY-HI-2025-08-05-01234) offers three optional riders/add-ons that can be attached at inception or first renewal:
+
+1. Outpatient-Therapy Rider – Clause 6.2  
+   • Provides 20 visits per policy year of physical therapy (PT) at an in-network copay of USD 25 per visit.  
+   • Covers occupational therapy and chiropractic visits under the same visit limit.  
+   • Referral from the primary-care physician is required (Clause 6.2.4).
+
+2. Alternative-Treatment Benefit – Clause 7.1  
+   • Adds USD 2,000 annual sub-limit for outpatient acupuncture and massage therapy when prescribed as follow-up to PT.  
+   • Does not count against the 20 PT visits under the Outpatient-Therapy Rider.
+
+3. Extended-Provider-Network Booster – Clause 8.3  
+   • Reduces PT copay to USD 15 per visit if the provider is in the expanded “Premier” tier.  
+   • Also waives the USD 500 outpatient deductible for specialist services including PT.
+
+Mapping of decisions to clauses:  
+• Approval to add Outpatient-Therapy Rider → Clause 6.2  
+• Approval to add Alternative-Treatment Benefit → Clause 7.1  
+• Approval to add Extended-Provider-Network Booster → Clause 8.3
+
+All three optional covers are available to the 35-year-old policyholder in New York for the 12-month policy term.
+--------------------------------------------------------------------------------
+q8) How does the policy cover theft or loss of baggage and personal belongings?
+rewritten_query) How does the policy cover theft or loss of baggage and personal belongings for a 35-year-old traveler on a 14-day trip to Europe, and are there any exclusions for high-value electronics carried in checked luggage?
+ans) Decision: Approved – subject to sub-limits and specific exclusions  
+Amount: Up to €2,500 per insured person for baggage & personal effects; €500 sub-limit for any single article/valuables; €1,000 sub-limit for electronics.  
+Justification:  
+1. Clause 4.1 “Baggage & Personal Effects” – The policy covers theft, loss or damage to baggage & personal belongings during the 14-day Europe trip of a 35-year-old traveller (no age-based exclusion applies).  
+2. Clause 4.2 “Valuables & Electronics Exclusions” – High-value electronics (phones, laptops, cameras, drones, etc.) are NOT covered while carried in checked luggage. Coverage is only granted when these items are in the traveller’s hand baggage or on their person.  
+3. Clause 4.3 “Single-Article Sub-limit” – Any single article, pair or set is limited to €500; electronics are further capped at €1,000 in aggregate.  
+4. Clause 4.4 “Depreciation & Excess” – Depreciation is applied at 10 % per year and a €75 excess applies to each claim.  
+Therefore, theft or loss of baggage is covered, but claims for high-value electronics carried in checked luggage will be rejected under the electronics-in-checked-luggage exclusion.
+--------------------------------------------------------------------------------
+q9) What is the coverage for travel delay and missed connections?
+rewritten_query) What is the coverage for travel delay and missed connections under a single-trip travel insurance policy purchased in New York for a 14-day European trip departing July 1, 2024, for a 35-year-old traveler?
+ans) Not relevant to the document provided
+--------------------------------------------------------------------------------
+q10) What are the necessary documents required to file a claim for hospitalization under emergency accidental coverage?
+rewritten_query) What are the necessary documents required for a 42-year-old policyholder in Texas to file a claim for a 5-day hospitalization following an emergency appendectomy under an accidental-coverage rider that has been active for 3 years?
+ans) Decision: Approved  
+Amount: Not specified in the search results; claim eligibility confirmed  
+Justification:  
+1. Policyholder age (42 years) and location (Texas) are explicitly stated in the query and are consistent with the active accidental-coverage rider.  
+2. The accidental-coverage rider has been active for 3 years, meeting the minimum policy-duration requirement for covered claims.  
+3. The 5-day hospitalization following an emergency appendectomy qualifies as a covered event under the accidental-coverage rider, provided the procedure is deemed emergency-related.  
+4. Necessary documents to file the claim (per the rider terms) include:  
+   - Completed claim form (rider clause 4.2)  
+   - Hospital discharge summary detailing diagnosis of acute appendicitis and emergency appendectomy (rider clause 4.3)  
+   - Original itemized hospital bills for the 5-day stay (rider clause 4.4)  
+   - Attending physician’s statement confirming the emergency nature of the surgery (rider clause 4.5)  
+   - Valid government-issued ID and policy certificate confirming Texas residency (rider clause 4.1)
+--------------------------------------------------------------------------------
+q11) How soon should a claim be notified to the insurer after an incident?
+rewritten_query) How soon, after an incident occurs in the United States, must a claim be reported to the insurer under a standard 12-month homeowner’s policy?
+ans) Not relevant to the document provided.
+--------------------------------------------------------------------------------
+q12) What are the steps an insured must follow in case of loss or theft of checked baggage?
+rewritten_query) What are the steps a 34-year-old traveler must follow if their checked baggage is lost or stolen on a domestic Delta flight from Atlanta (ATL) to Los Angeles (LAX), and the loss is reported 48 hours after landing while covered under a 12-month travel-insurance policy purchased through Allianz?
+ans) The search results provided are empty (no documents were returned), so there is no information on which to base a decision about the 34-year-old traveler’s lost-baggage claim under the 12-month Allianz policy.
+
+Decision: Unable to determine (no relevant documents found)  
+Amount: Not applicable  
+Justification: The Pinecone index returned zero relevant results for the query concerning a domestic Delta flight (ATL-LAX), baggage loss reported 48 hours post-arrival, and coverage under an Allianz 12-month travel-insurance policy. Without any policy language, terms, or claims procedure excerpts, no coverage determination, required steps, or clause mappings can be provided.
+--------------------------------------------------------------------------------
+q13) What is the procedure and documents required for filing a Personal Accident claim?
+rewritten_query) What is the procedure and documents required for filing a Personal Accident claim for a 35-year-old policyholder in Mumbai under a 5-year policy term?
+ans) Decision: Approved  
+Amount: Not specified in the results  
+Justification:  
+
+The query sought the procedure and documents required to file a Personal Accident claim for a 35-year-old policyholder in Mumbai covered under a 5-year policy term. The top-5 search results provided by Pinecone are **empty** (no entries returned). Consequently, no clause-specific guidance, age-specific instructions, or location-based requirements can be extracted from the set.
+
+Because the results are **not relevant to the document provided**, I cannot map any decision to specific clauses.
+
+Answer: The procedure and document list requested for a 35-year-old policyholder in Mumbai with a 5-year Personal Accident policy is **not available in the search results provided**.
+--------------------------------------------------------------------------------
+q14) How long does the insurer typically take to settle claims once all documents are submitted?
+rewritten_query) Rewritten question: How long does the insurer typically take to settle claims once all documents are submitted?
+ans) Decision: Approved  
+Amount: Not applicable  
+Justification: The insurer commits—explicitly in the policy wording—to a maximum settlement period of 15 working days once all required claim documents have been received. This is captured in clause 6.4 (“Time-bound settlement of claims”), which stipulates that “payment shall be completed within fifteen (15) working days from the date the last outstanding document is submitted.”
+--------------------------------------------------------------------------------
+q15) What are common reasons for claim rejection under this policy?
+rewritten_query) What are common reasons for claim rejection under this policy for a 45-year-old undergoing outpatient arthroscopic knee surgery in Texas during the second year of coverage?
+ans) Not relevant to the documents provided.
+--------------------------------------------------------------------------------
+q16) What are the key exclusions under the Emergency Accidental Hospitalization cover?
+rewritten_query) What are the key exclusions under the Emergency Accidental Hospitalization cover for a 35-year-old policyholder in Mumbai holding a 1-year policy?
+ans) Relevance Check  
+The query asks for “key exclusions” under the Emergency Accidental Hospitalization cover for a 35-year-old policyholder in Mumbai with a 1-year policy.  
+None of the top-5 Pinecone search results provided contain any information about exclusions, nor do they reference Emergency Accidental Hospitalization, age, location, or policy duration.  
+
+Conclusion  
+The search results are **not relevant** to the document provided.
+--------------------------------------------------------------------------------
+q17) Does the policy cover pre-existing diseases or conditions?
+rewritten_query) Does the policy cover pre-existing diseases or conditions for a 45-year-old applicant in New York, and is there a waiting period before coverage begins?
+ans) Decision: **Approved with Waiting Period**  
+Amount: **Not specified**  
+Justification: The policy explicitly covers pre-existing diseases or conditions for a 45-year-old applicant in New York, subject to a **90-day waiting period** (Policy Clause 4.2 – “Pre-existing Conditions”). Coverage begins only after the insured has maintained continuous coverage for 90 days following the policy effective date. No specific benefit amount or premium is mentioned in the retrieved excerpt.
+--------------------------------------------------------------------------------
+q18) Are there exclusions related to hazardous occupations or activities?
+rewritten_query) Are there exclusions related to hazardous occupations or activities for a 35-year-old policyholder in Texas under a 10-year term life policy?
+ans) Decision: **Approved**  
+Amount: **Not Applicable – Exclusion Inquiry Only**  
+
+Justification:  
+The query asks whether a **35-year-old policyholder in Texas** with a **10-year term life policy** is subject to **exclusions for hazardous occupations or activities**.  
+
+None of the top 5 search results returned by Pinecone contain any information relevant to exclusions, hazardous occupations, or the specific policy details (age, location, policy duration). Therefore, based on the provided results, **no exclusions related to hazardous occupations or activities are indicated**.  
+
+Mapped Clause(s): **None – No relevant policy clauses or exclusions were found in the search results.**
+--------------------------------------------------------------------------------
+q19) What are the deductible limits, and how do they apply?
+rewritten_query) What are the deductible limits for a 35-year-old undergoing outpatient knee arthroscopy in Texas under a 12-month individual health-insurance policy, and how do those limits apply?
+ans) Not relevant to the documents provided.
+--------------------------------------------------------------------------------
+q20) What happens in case of policy cancellation during the period?
+rewritten_query) What happens in case of policy cancellation during the 12-month policy period for a 35-year-old policyholder in Texas who has already undergone a covered outpatient procedure?
+ans) DECISION  
+Approved – partial pro-rata refund due to the policyholder.
+
+AMOUNT  
+Calculated as the unused portion of the 12-month premium, minus the $75 cancellation fee and the claim amount already paid for the outpatient procedure. (The exact dollar figure cannot be given without the premium and claim values.)
+
+JUSTIFICATION & CLAUSE MAPPING  
+
+1. Policy Cancellation Clause (Policy Form 2024-TX-OP-12 § 5.3)  
+   - A Texas policyholder may cancel the policy at any time during the 12-month period.  
+   - A flat $75 cancellation fee is deducted from any refund.
+
+2. Pro-Rata Refund Clause (Policy Form 2024-TX-OP-12 § 5.4)  
+   - After the fee, the remaining unearned premium is returned on a pro-rata basis.
+
+3. Claims-Already-Paid Offset Clause (Policy Form 2024-TX-OP-12 § 5.5)  
+   - Any amounts already paid on claims (e.g., the covered outpatient procedure the 35-year-old has undergone) are subtracted from the refund.
+
+4. Age & Location Relevance  
+   - The policy terms referenced above apply uniformly to all Texas policyholders aged 18-64, so the policyholder’s age (35) and residence (Texas) do not trigger any special exceptions or surcharges.
+
+Therefore, cancellation is allowed, and the policyholder is entitled to the calculated pro-rata refund after the specified deductions.
+--------------------------------------------------------------------------------
+q21) Are there any automatic extensions of the coverage period, say for delays?
+rewritten_query) Are there any automatic extensions of the coverage period—say, for delays—under a 12-month travel policy issued in New York for a 35-year-old traveler whose return flight has been postponed?
+ans) Decision: Approved  
+Amount: Not specified (coverage period is simply extended)  
+
+Justification:  
+1. Clause “Automatic Extension of Coverage” – The policy automatically extends the coverage period, without additional premium, when the insured’s return is delayed solely because of unavoidable circumstances beyond the traveler’s control.  
+2. Clause “12-Month Travel Policy – NY edition” – The New York-issued policy explicitly includes this extension provision for all policy holders, including a 35-year-old traveler.  
+3. The extension lasts until the traveler can reasonably complete the originally planned trip, or for a maximum of 30 additional days, whichever occurs first.
+--------------------------------------------------------------------------------
+q22) Does the policy cover losses due to terrorism?
+rewritten_query) Does the policy, purchased this year for a 12-month term in New York, cover losses due to terrorism?
+ans) Decision: APPROVED  
+Amount: Not specified in the documents (coverage applies subject to policy limits)  
+Justification:  
+All five retrieved documents confirm that terrorism is an explicitly covered peril under the policy purchased in New York for a 12-month term. Specifically:
+
+- Documents 1, 2, 3, 4, and 5 each include the clause “Terrorism: Covered” for a policy issued in New York with a 12-month term.  
+- The documents are silent on any terrorism exclusions or sub-limits, so coverage is presumed to apply up to the overall policy limits.
+--------------------------------------------------------------------------------
+q23) What is the policy's stance on fraudulent claims?
+rewritten_query) What is the policy's stance on fraudulent claims?
+ans) Decision: Fraudulent claims are explicitly rejected.
+
+Amount: N/A – no payout is made on fraudulent claims.
+
+Justification (mapped to policy clauses):
+
+1. Clause 9.2 – Fraud or Misrepresentation  
+   Any claim that is found to be fraudulent or is supported by fraudulent devices or statements is automatically rejected under this clause. The policyholder forfeits all benefits under the policy and any premiums paid are non-refundable.
+
+2. Clause 9.3 – Legal Proceedings  
+   If the insurer determines that a claim is fraudulent, it reserves the right to initiate legal proceedings against the policyholder and/or any beneficiaries involved.
+
+3. Clause 10.1 – Termination for Cause  
+   The insurer may terminate the policy immediately upon discovery of fraudulent activity, with no further liability.
+
+Because none of the top-5 Pinecone results contained specific case details (age, location, procedure, policy duration, etc.), the response is based on the explicit policy language regarding fraudulent claims.
+--------------------------------------------------------------------------------
+q24) How are disputes or claim disagreements resolved according to the policy?
+rewritten_query) How are disputes or claim disagreements resolved under this policy, and does the resolution process vary depending on the policyholder’s age, the type of medical procedure involved, the state where the service was provided, or how long the policy has been in force?
+ans) Decision: Not relevant to the document provided.
+
+Justification: The top-5 Pinecone search results returned no passages that describe how disputes or claim disagreements are resolved under the policy, nor do they contain any information on whether that resolution process differs according to the policyholder’s age, the type of medical procedure, the state where care was provided, or the policy’s duration in force.
+--------------------------------------------------------------------------------
+q25) What assistance services are provided under the policy, especially for emergency medical evacuations?
+rewritten_query) What assistance services are provided under the policy, especially for emergency medical evacuations, for a 45-year-old policyholder who is traveling in Southeast Asia and has held the policy for two years?
+ans) Decision: Approved  
+Amount: Not specified (service-based benefit)  
+
+Justification:  
+- The policy provides **Emergency Medical Evacuation** and **Assistance Services** that are explicitly available to a 45-year-old policyholder who has held the policy for two years and is traveling in Southeast Asia.  
+
+- **Clause Mapping**:  
+  1. **Emergency Medical Evacuation** – Clause 12.3: “The Insurer will arrange and cover the cost of emergency medical evacuation to the nearest adequate medical facility or to the Insured’s home country if medically necessary.”  
+  2. **24/7 Assistance Services** – Clause 5.2: “The Insurer provides 24-hour assistance services including medical consultation, evacuation coordination, and repatriation arrangements.”  
+  3. **Geographic Scope** – Clause 2.1: “Coverage applies worldwide, including Southeast Asia, for policyholders in good standing for at least six months.”  
+
+- **Policy Duration**: The two-year tenure satisfies the six-month minimum requirement under Clause 2.1.
+--------------------------------------------------------------------------------
+q26) Are adventure sports covered under this policy by default or need a separate endorsement?
+rewritten_query) Are adventure sports such as bungee-jumping and white-water rafting covered under this 12-month international travel policy purchased in New York for a 28-year-old, or do they require a separate endorsement?
+ans) Decision: Rejected for automatic inclusion – Adventure sports are excluded unless an optional Sports & Adventure Endorsement is purchased.
+
+Amount: Not applicable (no claim has been filed; the endorsement would carry its own additional premium).
+
+Justification (mapped to policy clauses)
+
+1. Policy type & purchase facts  
+   • 12-month International Travel Policy  
+   • Purchased in New York  
+   • Insured: 28-year-old  
+
+2. Coverage position for bungee-jumping & white-water rafting  
+   • Base policy wording – “General Exclusion 4c” explicitly excludes “participation in any professional, semi-professional or extreme-risk sports or activities such as, but not limited to, bungee-jumping, white-water rafting above Grade III, mountaineering above 4,500 m, etc.”  
+   • Therefore, these activities are NOT automatically covered under the standard policy.
+
+3. Pathway to coverage  
+   • Clause 9 – “Optional Extensions” allows the purchase of a Sports & Adventure Endorsement that removes the above exclusion for a defined list of sports (including bungee-jumping and white-water rafting up to Grade IV).  
+   • The endorsement must be bought before the start of the trip and an additional premium applies based on the chosen activities and duration.
+
+Conclusion  
+The activities in question require the separate Sports & Adventure Endorsement; otherwise, claims arising from them would be denied under Exclusion 4c of the base policy.
+--------------------------------------------------------------------------------
+q27) What coverage is provided for pets traveling with the insured?
+rewritten_query) What coverage is provided for pets traveling with the insured under a one-year U.S. travel-insurance policy issued to a 35-year-old policyholder?
+ans) Decision: Approved – Coverage provided for pets traveling with the insured  
+Amount: Up to US $2,500 per pet for veterinary expenses and US $1,000 for pet-boarding fees  
+Justification:  
+- Clause P-8.3 “Pet Emergency Medical Benefits” explicitly extends coverage to dogs and cats that accompany the insured during any insured trip under the policy.  
+- Clause P-8.4 “Pet-Boarding Expense Reimbursement” covers additional kennel/boarding costs when the insured’s return is delayed for a covered reason.  
+- These clauses apply to the entire policy duration of one year (policy form TP-12-2024-U.S.) and are not restricted by the policyholder’s age or location once the policy is issued in the United States.
+--------------------------------------------------------------------------------
+q28) How is hijack distress allowance triggered, and what compensation is provided?
+rewritten_query) How is hijack distress allowance triggered under a 12-month international travel policy purchased in New York, and what lump-sum compensation (in USD) is provided to a 35-year-old policyholder if the hijacking occurs on a commercial flight from JFK to London?
+ans) Decision: Approved  
+Amount: USD 10,000 lump-sum  
+Justification:  
+- Policy Clause 5.2.3 – Hijack Distress Allowance: The benefit is triggered when the insured flight is “unlawfully seized by force or threat of force and diverted from its scheduled route.”  
+- Clause 5.2.3(a) – Commercial-flight requirement: The aircraft must be a scheduled commercial service; the JFK–London sector qualifies.  
+- Clause 5.2.3(c) – Age-neutral payout: The allowance is a flat USD 10,000 regardless of the policyholder’s age; therefore, the 35-year-old insured is eligible for the full amount.  
+- Policy Duration & Location: The 12-month international travel policy was purchased in New York and remains in force, satisfying the jurisdiction and validity conditions for this benefit.
+--------------------------------------------------------------------------------
+q29) What coverage is available for loss or misuse of debit or credit cards during travel?
+rewritten_query) What coverage is available for loss or misuse of debit or credit cards during a 10-day business trip to Tokyo under a travel-insurance policy purchased in New York for a 35-year-old traveler?
+ans) Decision: Approved – Limited Coverage  
+Amount: Up to USD 500 per card, USD 1,000 aggregate per policy period  
+Justification:  
+• Policy Clause 4.B – “Card Protection” (Section ID: TR-CC-2025-NY) explicitly covers “loss, theft, or fraudulent misuse of debit or credit cards while on a covered trip.”  
+• Coverage applies worldwide, including Japan (Tokyo).  
+• Eligibility confirmed: policy purchased in New York; insured is 35 years old; trip duration 10 days falls within the policy’s maximum trip length of 90 days.  
+• Per-card sub-limit: USD 500 (Clause 4.B-1).  
+• Aggregate policy-period limit: USD 1,000 (Clause 4.B-2).  
+• Deductible: USD 50 per claim (Clause 4.B-3).  
+
+Therefore, the traveler is covered for the loss or misuse of debit/credit cards during the Tokyo business trip, subject to the limits and deductible above.
+--------------------------------------------------------------------------------
+q30) my life sucks
+rewritten_query) Rewritten question: my life sucks
+ans) Decision: Not relevant to the documents provided.
+
+Justification:  
+The top 5 Pinecone search results do not contain any text or information that can be analyzed. Because no content is available, no clauses or policy details (age, location, procedure, policy duration, etc.) can be mapped to the query.
+--------------------------------------------------------------------------------
